@@ -1,6 +1,4 @@
 # Control PID de un Balancín Simple
-Control PID de un balancín simple
-
 
 Se trata de un balancín simple con inclinación en un solo eje, que consta de un motor de corriente continua con hélice y un giroscopio / acelerómetro que hará de sensor para calcular la inclinación.
 
@@ -16,6 +14,9 @@ El objetivo es mediante un controlador PID situar el balancín en el ángulo de 
   <img src="https://garikoitz.info/blog/wp-content/uploads/2020/06/Esquema_control_balanc%C3%ADn.png" width="350" alt="esquema">
 </p>
 
+https://www.youtube.com/watch?v=zTvhxIlqtEM
+
+<br>
 
 Tenéis todos los detalles en la entrada del blog
 
